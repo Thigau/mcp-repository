@@ -1,6 +1,6 @@
 # MCP Repository
 
-Este repositorio contiene el proyecto MCP, que incluye herramientas para crear gráficos y realizar cálculos avanzados.
+Este repositorio contiene el proyecto MCP, que incluye herramientas para crear gráficos, realizar cálculos avanzados y gestionar usuarios.
 
 ## Funcionalidades
 
@@ -18,13 +18,10 @@ Este repositorio contiene el proyecto MCP, que incluye herramientas para crear g
 - Calcular los ceros de un polinomio.
 - Identificar valores comunes entre dos conjuntos de datos.
 
-### Interacción con el usuario
-- Interfaz intuitiva basada en menús.
-- Validación de entradas y manejo de errores para una experiencia fluida.
-
 ### Gestión de usuarios
 - Registro e inicio de sesión de usuarios.
 - Guardar y visualizar el historial de acciones realizadas por cada usuario.
+- Generar un informe resumen de las acciones realizadas por el usuario.
 
 ## Cómo usar
 
